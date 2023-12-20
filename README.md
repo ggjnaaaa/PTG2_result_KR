@@ -17,6 +17,6 @@
 
 Пример проекта: https://h-anim.github.io/Monsters/
 
-Результат: https://ggjnaaaa.github.io/PTG2_result_LR3/
+Результат: https://ggjnaaaa.github.io/PTG2_result_KR/
 
 Код: https://github.com/ggjnaaaa/PTG2_KR
