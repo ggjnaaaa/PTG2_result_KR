@@ -17,6 +17,6 @@
 
 Пример проекта: https://h-anim.github.io/Monsters/
 
-Код: https://ggjnaaaa.github.io/PTG2_KR/
+Результат: https://ggjnaaaa.github.io/PTG2_result_LR3/
 
-Работа была загружна через git-LFS, полный проект доступен на Яндекс.Диск: https://disk.yandex.ru/d/Qopl_sJdh53sUw
+Код: https://ggjnaaaa.github.io/PTG2_KR/
